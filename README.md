@@ -1,31 +1,55 @@
-<h1 align="center">quietdom</h1>
+<div align="center">
 
-<p align="center">
-  <b>embedded security · offensive firmware · wireless research</b>
-</p>
+```
+┌──────────────────────────────────────────┐
+│                                          │
+│            q u i e t d o m               │
+│                                          │
+└──────────────────────────────────────────┘
+```
 
-<p align="center">
-  <a href="https://guns.lol/quietdom_">🔗 guns.lol/quietdom_</a> ·
-  <a href="https://github.com/quietdom/bruce-custom-firmware">🎯 Bruce Arsenal</a>
-</p>
+<br>
 
----
+`firmware` · `wireless` · `embedded` · `offensive security`
 
-### what i do
+<br>
 
-- custom ESP32 firmware for offensive security
-- WiFi/BLE/RF attack tooling
-- hardware hacking on pocket-sized devices
-- building things that make networks uncomfortable
+i write code that runs on hardware smaller than your thumb<br>
+and does things larger than your firewall can handle
 
-### current project
-
-**[Bruce Arsenal](https://github.com/quietdom/bruce-custom-firmware)** — 26-tool offensive security mod for Bruce firmware. WiFi attacks, BLE exploitation, multi-band jamming, background evasion, mobile web dashboard, 60K+ script support.
+<br>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-ESP32-blue?style=flat-square&logo=cplusplus" alt="C++">
-  <img src="https://img.shields.io/badge/Platform-ESP32--S3-green?style=flat-square" alt="ESP32">
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=flat-square" alt="Security">
-</p>
+<br>
+
+```
+CURRENT TRANSMISSION:
+├── 802.11 ████████░░ active
+├── BLE    ██████░░░░ scanning
+├── SubGHz █████░░░░░ idle
+└── OPSEC  ■ CLEAR
+```
+
+<br>
+
+---
+
+<br>
+
+<a href="https://github.com/quietdom/bruce-custom-firmware"><code>bruce-arsenal</code></a> — 26 offensive tools in one firmware<br>
+<a href="https://guns.lol/quietdom_"><code>guns.lol/quietdom_</code></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/-ESP32-333?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/-RF-444?style=flat-square" alt="RF">
+<img src="https://img.shields.io/badge/-BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="BLE">
+<img src="https://img.shields.io/badge/-WiFi-000?style=flat-square&logo=wifi&logoColor=white" alt="WiFi">
+
+<br><br>
+
+<sub>if it transmits, i probably have a module for it</sub>
+
+</div>
