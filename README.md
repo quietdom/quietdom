@@ -1,8 +1,10 @@
 <div align="center">
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=header" width="100%"/>
 
-# quietdom
+<br>
+
+# 🧑‍💻 𝚚𝚞𝚒𝚎𝚝𝚍𝚘𝚖
 
 <br>
 
@@ -30,6 +32,8 @@
 <img src="https://img.shields.io/badge/-BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="BLE">
 <img src="https://img.shields.io/badge/-WiFi-12121a?style=for-the-badge&logo=wifi&logoColor=00ff88" alt="WiFi">
 
-<br><br><br>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
