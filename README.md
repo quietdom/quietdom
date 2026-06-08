@@ -21,7 +21,7 @@
 
 <br>
 
-🎯 <a href="https://github.com/quietdom/bruce-custom-firmware"><code>bruce-arsenal</code></a> — 26 tools. one firmware. one device.<br>
+🎯 <a href="https://github.com/quietdom/bruce-custom-firmware"><code>bruce-arsenal</code></a> — 72 tools. one firmware. multiple devices.<br>
 🔗 <a href="https://guns.lol/quietdom_"><code>guns.lol/quietdom_</code></a>
 
 <br><br>
