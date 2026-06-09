@@ -1,6 +1,6 @@
 # quietdom
 
-teen software developer - firmware, backend, frontend. typescript.
+teen software developer - and many more
 
 ## projects
 
