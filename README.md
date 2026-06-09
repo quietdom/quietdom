@@ -6,6 +6,7 @@ software developer - firmware, backend, frontend. typescript.
 
 - [agent-sdk](https://github.com/quietdom/agent-sdk) - universal sdk for coding agents
 - [bruce-arsenal](https://github.com/quietdom/bruce-arsenal) - firmware mod (currently not working on)
+- and many more on my profile
 
 ## contact
 
