@@ -1,30 +1,12 @@
-# Hey, I'm quietdom
+# quietdom
 
-## Building developer tools
+teen software developer
 
-### Latest Project: [agent-sdk](https://github.com/quietdom/agent-sdk)
+## projects
 
-Universal SDK for coding agents. One API for Claude Code, Codex, Cursor, ChatGPT, Kiro, Antigravity, OpenCode.
+- [agent-sdk](https://github.com/quietdom/agent-sdk) - universal sdk for coding agents
+- [bruce-arsenal](https://github.com/quietdom/bruce-arsenal) - tools and utilities
 
-```bash
-npm install github:quietdom/agent-sdk
-```
+## contact
 
-```typescript
-import { Agent } from 'agent-sdk';
-
-const claude = Agent.create('claude');
-await claude.ask("fix this bug");
-```
-
----
-
-### Also working on:
-- Open source contributions
-- Developer tooling
-- AI/ML projects
-
----
-
-### Connect:
-- GitHub: [@quietdom](https://github.com/quietdom)
+discord: quietdom_
