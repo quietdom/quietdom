@@ -1,11 +1,11 @@
 # quietdom
 
-teen software developer
+software developer - firmware, backend, frontend. typescript.
 
 ## projects
 
 - [agent-sdk](https://github.com/quietdom/agent-sdk) - universal sdk for coding agents
-- [bruce-arsenal](https://github.com/quietdom/bruce-arsenal) - tools and utilities
+- [bruce-arsenal](https://github.com/quietdom/bruce-arsenal) - firmware mod (currently not working on)
 
 ## contact
 
