@@ -31,5 +31,5 @@ Teen software developer building agents and cybersecurity tools.
 ### Stats
 
 <a href="https://github.com/quietdom">
-  <img src="https://github-readme-stats.vercel.app/api?username=quietdom&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true&count_private=true&v=1" alt="Dom's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quietdom&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true&count_private=true" alt="Dom's GitHub Stats" />
 </a>
