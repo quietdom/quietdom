@@ -21,11 +21,3 @@
 ## stack
 
 `python` `typescript` `c++` `c#` `react` `node` `docker` `linux`
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=quietdom&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=CAD3F5&icon_color=94C9FF&text_color=8B949E" height="150" alt="quietdom's GitHub stats" />
-
-</div>
