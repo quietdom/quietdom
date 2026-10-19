@@ -21,3 +21,12 @@
 ## stack
 
 `python` `typescript` `c++` `c#` `react` `node` `docker` `linux`
+
+---
+
+<div align="center">
+
+<img src="./stats.svg" height="140" alt="quietdom's contributions in the last year" />
+
+</div>
+
