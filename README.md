@@ -10,13 +10,9 @@
 
 ## building
 
-**[agent-sdk](https://github.com/quietdom/agent-sdk)** — one API for coding agents  
 **[bruce-arsenal](https://github.com/quietdom/bruce-arsenal)** — tools for Bruce firmware  
-**[phantom-firmware](https://github.com/quietdom/phantom-firmware)** — ESP32-S3 pentest platform
-
-## also
-
-[cybersecurity-dashboard](https://github.com/quietdom/cybersecurity-dashboard) · [modelklub](https://github.com/quietdom/modelklub) · [riff](https://github.com/rootscripts/riff) contributions
+**[cybersecurity-dashboard](https://github.com/quietdom/cybersecurity-dashboard)** — footprint analysis and security overview  
+**[riff](https://github.com/rootscripts/riff)** — desktop music player, contributing upstream
 
 ## stack
 
